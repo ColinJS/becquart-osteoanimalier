@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=salome_osteo
+POSTGRES_USER=dFrLRItSEEsgveDofQrLdnLifNiNsHzg
+POSTGRES_PASSWORD=5nYTPMSOxeSAXwpmH7CnlgHdtSxvBaAbDTnlCrSOeYRc9naAjGziEMDmKHPhLpdY
